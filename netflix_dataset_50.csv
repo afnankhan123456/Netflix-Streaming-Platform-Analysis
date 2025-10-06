@@ -1,0 +1,51 @@
+title,genre,release_year,rating,content_type,views,watch_time,country,region,genre_encoded
+Title_1,Horror,2016,8.1,Movie,318824,157,India,Europe,3
+Title_2,Romance,2024,6.5,Series,258426,68,USA,Europe,4
+Title_3,Drama,2023,9.3,Movie,178789,111,USA,Europe,2
+Title_4,Romance,2024,6.9,Movie,514153,133,Canada,North America,4
+Title_5,Romance,2019,9.2,Movie,743452,158,India,North America,4
+Title_6,Comedy,2016,8.7,Movie,838291,40,India,North America,1
+Title_7,Drama,2018,5.0,Series,126657,180,Germany,Asia,2
+Title_8,Drama,2021,1.9,Series,236167,71,India,Europe,2
+Title_9,Drama,2022,4.3,Movie,682669,128,India,Asia,2
+Title_10,Romance,2017,7.0,Movie,481671,36,India,North America,4
+Title_11,Horror,2015,7.0,Series,720094,173,UK,Europe,3
+Title_12,Drama,2018,6.3,Movie,71467,119,Germany,Asia,2
+Title_13,Documentary,2016,3.5,Movie,184734,141,USA,Europe,5
+Title_14,Romance,2022,6.1,Movie,623794,89,Canada,Asia,4
+Title_15,Comedy,2018,4.4,Series,110751,142,USA,Europe,1
+Title_16,Horror,2016,9.7,Series,382050,31,Germany,North America,3
+Title_17,Documentary,2020,8.6,Series,931192,158,Canada,North America,5
+Title_18,Documentary,2020,7.5,Movie,812774,77,Germany,Europe,5
+Title_19,Comedy,2024,3.1,Movie,693517,169,India,Asia,1
+Title_20,Horror,2018,3.3,Series,462079,66,Canada,North America,3
+Title_21,Romance,2020,1.4,Series,369452,38,India,North America,4
+Title_22,Action,2016,7.4,Series,970587,128,USA,North America,0
+Title_23,Horror,2024,2.0,Series,107081,176,USA,Europe,3
+Title_24,Comedy,2016,5.0,Movie,984237,77,Canada,Europe,1
+Title_25,Documentary,2024,2.8,Series,614333,160,Canada,Asia,5
+Title_26,Romance,2018,9.1,Movie,559986,177,Germany,Asia,4
+Title_27,Horror,2022,5.3,Series,111078,83,Germany,Asia,3
+Title_28,Action,2021,6.1,Movie,868055,149,India,Europe,0
+Title_29,Action,2023,7.3,Series,23671,145,Canada,Europe,0
+Title_30,Drama,2022,2.3,Series,419400,104,USA,Asia,2
+Title_31,Drama,2019,6.4,Series,356528,142,Germany,Asia,2
+Title_32,Comedy,2016,5.9,Series,960611,133,Germany,Europe,1
+Title_33,Horror,2019,2.8,Movie,611490,113,USA,Asia,3
+Title_34,Horror,2022,9.5,Series,52663,141,Germany,North America,3
+Title_35,Documentary,2024,6.4,Movie,16708,128,India,Europe,5
+Title_36,Documentary,2023,7.3,Movie,879338,122,Canada,Asia,5
+Title_37,Documentary,2023,8.9,Movie,312955,175,USA,Europe,5
+Title_38,Drama,2015,6.6,Movie,134883,157,Canada,North America,2
+Title_39,Horror,2023,3.7,Series,319394,139,Germany,Europe,3
+Title_40,Horror,2021,1.9,Movie,113547,111,Germany,Europe,3
+Title_41,Action,2023,5.1,Movie,990586,83,USA,Europe,0
+Title_42,Drama,2022,3.0,Movie,911681,97,India,Europe,2
+Title_43,Romance,2015,4.7,Series,560042,62,UK,North America,4
+Title_44,Drama,2022,8.9,Series,752102,171,USA,Europe,2
+Title_45,Romance,2022,3.9,Series,763002,50,UK,Europe,4
+Title_46,Action,2025,2.1,Series,143483,77,UK,Asia,0
+Title_47,Comedy,2017,4.2,Movie,659271,177,India,Europe,1
+Title_48,Horror,2015,9.2,Movie,985774,157,UK,Asia,3
+Title_49,Action,2022,3.4,Series,215835,165,UK,North America,0
+Title_50,Horror,2017,6.8,Movie,402896,164,India,North America,3
